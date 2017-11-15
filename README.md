@@ -6,4 +6,5 @@ python ifElseScripts.py <name> <age>
 Run 'optionParser.py' as:
 
 python optionParser.py -n <name> -a <age>
-and for help: python optionParser.py -h
+
+for help: python optionParser.py -h
